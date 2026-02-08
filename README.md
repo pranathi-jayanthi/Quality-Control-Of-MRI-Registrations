@@ -1,6 +1,6 @@
 # Fully Automated Quality Control of Rigid & Affine Registrations of T1w and T2w MRI in big data using Diffusion Models
 
-Welcome to the Quality Control of Brain MRI Registration repository! This project focuses on Quality control of brain MRI registrations using diffusion models. The repository contains Python files for reading MRI images, training diffusion models to generate images, compare to check quality and display results. Diffusion models are used to improve the accuracy compared to other deep learning techniques since diffusion models are good at handling noisy images as well. 
+Welcome to the Quality Control of Brain MRI Registration repository! This project focuses on Quality control of brain MRI registrations using diffusion models. The repository contains Python files for reading MRI images, training diffusion models to generate images, compare to check quality and display results. Diffusion models are used to improve the accuracy compared to other  machine learning techniques since diffusion models are good at handling noisy images as well. 
 
 
 ## Repository Structure
@@ -18,5 +18,6 @@ Welcome to the Quality Control of Brain MRI Registration repository! This projec
 3. **Explore Python Scripts**: Explore the Python scripts in the repository to understand their functionality and usage.
 
 4. **Run Python Scripts**: Execute the Python scripts using a Python interpreter to perform various tasks, such as displaying MRI images, training models, and detecting anomalies.
+
 
 
