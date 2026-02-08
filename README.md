@@ -1,6 +1,6 @@
 # Brain MRI Anomaly Detection
 
-Welcome to the Brain MRI Anomaly Detection repository! This project focuses on detecting anomalies in brain MRI images using stable diffusion. The repository contains Python files for displaying MRI images and training models to identify anomaly scans.
+Welcome to the Brain MRI Anomaly Detection repository! This project focuses on detecting anomalies in brain MRI images using diffusion models. The repository contains Python files for displaying MRI images and training models to identify anomaly scans.
 
 ## About the Project
 
@@ -47,3 +47,4 @@ The repository includes Python scripts for preprocessing MRI data, training deep
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
